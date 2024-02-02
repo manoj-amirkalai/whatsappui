@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/whatsappui/static/css/main.da088da6.css",
+    "main.js": "/whatsappui/static/js/main.8f7b6419.js",
+    "index.html": "/whatsappui/index.html",
+    "main.da088da6.css.map": "/whatsappui/static/css/main.da088da6.css.map",
+    "main.8f7b6419.js.map": "/whatsappui/static/js/main.8f7b6419.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da088da6.css",
+    "static/js/main.8f7b6419.js"
+  ]
+}
